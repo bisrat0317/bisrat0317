@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Hello, I'm Bisrat Mulatu
 
-<!--
-**bisrat0317/bisrat0317** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm an Information Technology graduate from Hawassa University  
+💻 I enjoy working on web systems, hardware support, and technical troubleshooting  
+📚 Recently learned: Java, Python, Basics of AI/ML, Operating Systems  
+🔧 Internship experience: ECWC (Web system development)  
+🌱 Currently learning: Git, angular and laravel frameworks  
+📫 Reach me at: bisratmulatu00@gmail.com 
+---
 
-Here are some ideas to get you started:
+### 🛠️ Skills & Tools
+- Programming: `Python`, `Java`, `PHP`
+- Web: `HTML`, `CSS`, `JavaScript`
+- Databases: `MySQL`, `phpMyAdmin`
+- Tools: `VS Code`, `Git`, `GitHub`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Projects
+- **ICT Support Management System** – Web-based platform for tracking and resolving tech issues  
+- **Customer Satisfaction Dashboard** – Added features to measure service feedback at ECWC  
+
+---
+
+### 📷 Fun Fact
+I love learning through real-world practice and building solutions that matter!
